@@ -1,0 +1,29 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.p
+*.mat~
+
+# Simulink generated files
+slprj/
+*_slwebview/
+*.slxc
+
+# Code generation
+*_grt_rtw/
+*_ert_rtw/
+*_model_rtw/
+codegen/
+rtwmakecfg.m
+
+# MATLAB cache and preferences
+.matlab/
+*.log
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
