@@ -53,21 +53,34 @@ MATLAB-16S5P-Battery-Pack/
 └── .gitignore
 ```
 
-Learning Outcomes
+## Learning Outcomes
 
 This project provided practical experience with:
 
-Battery pack configuration
-Series-parallel cell arrangement
-Simscape battery modeling
-Electrical measurement and sensing
-SOC monitoring
-Simulink-based simulation
-Interpreting battery discharge characteristics
+- Battery pack configuration
+- Series-parallel cell arrangement
+- Simscape battery modeling
+- Electrical measurement and sensing
+- SOC monitoring
+- Simulink-based simulation
+- Interpreting battery discharge characteristics
 
-AI tools were also used as a learning and troubleshooting aid during the modeling process. The model configuration, implementation, and simulation were carried out and verified in MATLAB/Simulink.
+## AI-Assisted Learning
 
-Author
+AI tools were used as a learning and troubleshooting aid during the modeling process. The model configuration, implementation, and simulation were carried out and verified in MATLAB/Simulink.
+
+## Author
+
+**TrellisTrey**
+
+B.Tech Mechatronics Engineering Student  
+Parul University, India
+
+### Areas of Interest
+
+- EV/HEV Systems
+- Battery Modeling & Simulation
+- Embedded Systems
 
 TrellisTrey
 
