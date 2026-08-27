@@ -81,5 +81,3 @@ Parul University, India
 - EV/HEV Systems
 - Battery Modeling & Simulation
 - Embedded Systems
-
-TrellisTrey
