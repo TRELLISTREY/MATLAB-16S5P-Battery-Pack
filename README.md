@@ -51,6 +51,7 @@ MATLAB-16S5P-Battery-Pack/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 Learning Outcomes
 
