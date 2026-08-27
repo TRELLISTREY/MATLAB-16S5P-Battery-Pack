@@ -83,6 +83,3 @@ Parul University, India
 - Embedded Systems
 
 TrellisTrey
-
-B.Tech Mechatronics Engineering
-Interests: EV/HEV Systems, Battery Modeling & Embedded Systems
